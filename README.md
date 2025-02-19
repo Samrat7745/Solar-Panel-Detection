@@ -13,6 +13,6 @@ Detecting Solar Panels from Satellite images using YOLOv8
 * place the dataset in the "dataset" folder
 * create "images" and "labels" folder in data folder
 * Inside "images" and "labels" add "test","train" and "val" folders in both the folders
-* change values of hd_folder_path and native_folder_path in the Task1-2.ipynb file to "<path to the Solar-Panel-detection folder>/dataset/<labels_hd or labels_native >"
-* Change the value of root directory in data.yaml file in data/ folder to "<path to the Solar-Panel_detection folder>"
+* change values of hd_folder_path and native_folder_path in the Task1-2.ipynb file to "\<path to the Solar-Panel-detection folder>/dataset/\<labels_hd or labels_native >"
+* Change the value of root directory in data.yaml file in data/ folder to "\<path to the Solar-Panel_detection folder>"
 Run the script
